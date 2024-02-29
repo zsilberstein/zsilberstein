@@ -51,9 +51,8 @@ I’m driven by the prospect of applying theoretical concepts to solve real-worl
 </a>
 
 
-
-
-## Example of work:
-Put Gifs here
+## Examples of work:
+Hexapod robot walking underwater:  
+<img src="https://github.com/zsilberstein/zsilberstein/blob/main/Thesis%20walking%20in%20water.gif" alt="Robot walking in water" width="400" height="225" />
 
 <img src="https://komarev.com/ghpvc/?username=zsilberstein&label=Profile%20views&color=0e75b6&style=flat" alt="zsilberstein" />  
