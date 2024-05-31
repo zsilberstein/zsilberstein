@@ -49,7 +49,9 @@ Robot-Gait-Vis, a rapid visualization tool for walking robots:
 <a href="https://github.com/zsilberstein/robot-gait-vis" target="_blank" rel="noreferrer"><img
         src="https://github.com/zsilberstein/robot-gait-vis/blob/master/hexapod_ex.gif?raw=true" alt="Robot-Gait-vis" width="400" height="300" /></a>
 
-An amphibious crab-inspired robot walking underwater on sand from my master's thesis:  
-<img src="https://github.com/zsilberstein/zsilberstein/blob/main/Thesis%20walking%20in%20water.gif?raw=true" alt="Robot walking in water" width="400" height="225" />
+An amphibious crab-inspired robot walking underwater on sand from my master's thesis, "Control Trajectories for Improved Efficiency and Speed of a Crab-like Robot":  
+<a href="https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=case1702030085615918" target="_blank" rel="noreferrer"><img
+        src="https://github.com/zsilberstein/zsilberstein/blob/main/Thesis%20walking%20in%20water.gif?raw=true" alt="Robot walking in water" width="400"
+        height="225" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=zsilberstein&label=Profile%20views&color=0e75b6&style=flat" alt="zsilberstein" />  
