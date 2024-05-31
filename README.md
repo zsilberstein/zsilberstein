@@ -1,11 +1,11 @@
 # Hi 👋, I'm Zach Silberstein
 
-As a recent graduate with a master’s degree in mechanical engineering, I have established a strong foundation in robotics, dynamics, and controls. My academic journey concluded with the defense of my thesis, where I explored different trajectories for an innovative amphibious crab-like robot. This project not only allowed me to demonstrate a proficiency in robotics principles, python, and ROS, but also gave me the opportunity to improve my problem-solving and communication skills.
+As a recent graduate with a master’s degree in mechanical engineering, I have established a strong foundation in robotics, dynamics, and controls. My academic journey concluded with the defense of my thesis, where I explored different trajectories for an innovative amphibious crab-like robot. This project not only allowed me to demonstrate a proficiency in robotics principles, Python, C++, and ROS, but also gave me the opportunity to improve my problem-solving and communication skills.
 
 I’m driven by the prospect of applying theoretical concepts to solve real-world problems, and I am eager to help bring the robotic future to the present. I am actively seeking opportunities that embrace emerging technologies, encourage forefront thinking, and value continuous learning.
 
 <!-- - 🔭 I’m currently working on [test](link) -->
-- 🌱 I’m currently learning TensorFlow 
+<!-- - - 🌱 I’m currently learning  -->
 - 📫 How to reach me: **zach.silberstein@gmail.com** 
 - 😄 Pronouns: he/him 
 
@@ -37,9 +37,6 @@ I’m driven by the prospect of applying theoretical concepts to solve real-worl
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
         width="40" height="40" /></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img
-        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40"
-        height="40" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img
         src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></a>
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img
