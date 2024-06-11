@@ -51,7 +51,7 @@ An amphibious crab-inspired robot walking underwater on sand from my master's th
         src="https://github.com/zsilberstein/zsilberstein/blob/main/Thesis%20walking%20in%20water.gif?raw=true" alt="Robot walking in water" width="500"
         height="281" /></a>
 </p>
-DIP-Control, a D\dynamical simulation and control of the unstable double inverted pendulum (DIP) on a cart:
+DIP-Control, a dynamical simulation and control of the unstable double inverted pendulum (DIP) on a cart:
 <p align="center">
 <a href="https://github.com/zsilberstein/DIP-Control" target="_blank" rel="noreferrer"><img
         src="https://github.com/zsilberstein/DIP-Control/blob/main/images/DIP.gif?raw=true" alt="DIP-Control" width="576" height="324" /></a>
