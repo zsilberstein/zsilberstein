@@ -45,13 +45,22 @@ I’m driven by the prospect of applying theoretical concepts to solve real-worl
 
 
 ## Projects I've worked on:
-Robot-Gait-Vis, a rapid visualization tool for walking robots:  
-<a href="https://github.com/zsilberstein/robot-gait-vis" target="_blank" rel="noreferrer"><img
-        src="https://github.com/zsilberstein/robot-gait-vis/blob/master/hexapod_ex.gif?raw=true" alt="Robot-Gait-vis" width="400" height="300" /></a>
-
 An amphibious crab-inspired robot walking underwater on sand from my master's thesis, "Control Trajectories for Improved Efficiency and Speed of a Crab-like Robot":  
+<p align="center">
 <a href="https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=case1702030085615918" target="_blank" rel="noreferrer"><img
-        src="https://github.com/zsilberstein/zsilberstein/blob/main/Thesis%20walking%20in%20water.gif?raw=true" alt="Robot walking in water" width="400"
-        height="225" /></a>
+        src="https://github.com/zsilberstein/zsilberstein/blob/main/Thesis%20walking%20in%20water.gif?raw=true" alt="Robot walking in water" width="500"
+        height="281" /></a>
+</p>
+DIP-Control, a D\dynamical simulation and control of the unstable double inverted pendulum (DIP) on a cart:
+<p align="center">
+<a href="https://github.com/zsilberstein/DIP-Control" target="_blank" rel="noreferrer"><img
+        src="https://github.com/zsilberstein/DIP-Control/blob/main/images/DIP.gif?raw=true" alt="DIP-Control" width="576" height="324" /></a>
+</p>
+Robot-Gait-Vis, a rapid visualization tool for walking robots:  
+<p align="center">
+<a href="https://github.com/zsilberstein/robot-gait-vis" target="_blank" rel="noreferrer"><img
+        src="https://github.com/zsilberstein/robot-gait-vis/blob/master/hexapod_ex.gif?raw=true" alt="Robot-Gait-vis" width="550" height="413" /></a>
+</p>
+
 
 <img src="https://komarev.com/ghpvc/?username=zsilberstein&label=Profile%20views&color=0e75b6&style=flat" alt="zsilberstein" />  
